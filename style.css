@@ -132,7 +132,7 @@ span{
     margin-left: 3%;
     margin-right: 3%;
     border-radius: 10px;
-    box-shadow: 1px 1px 10px black;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.205);
     padding: 1% 1%;
 }
 
